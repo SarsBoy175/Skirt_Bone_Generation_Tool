@@ -1,5 +1,5 @@
 # Skirt_Bone_Generation_Tool
-# 裙子骨骼生成工具 | Skirt Rig Generator Add-on for Blender
+# 裙子骨骼生成工具 | Skirt_Bone_Generation_Tool
 
 用於產生裙子骨骼的 Blender 插件  
 *A Blender add-on for generating bones for skirt rigs.*
